@@ -1,12 +1,14 @@
-*{
+* {
     font-family: Calisto MT, Bookman Old Style, Bookman, Goudy Old Style, Garamond, Hoefler Text, Bitstream Charter, Georgia, serif;
     margin: 0;
     padding: 0;
     color: rgb(0, 0, 0);
 }
-body{
+
+body {
     background-color: rgb(250, 250, 250);
 }
+
 .navprin {
     text-align: center;
     justify-content: center;
@@ -14,14 +16,16 @@ body{
     font-size: 1.5em;
     margin-left: -10em;
 }
+
 .cookprincipal {
     margin-top: 0;
     padding: 0;
     padding-top: 2em;
     /* background-color: rgb(255, 255, 255); */
     border-left: double rgb(59, 108, 199) 0.2em;
-    border-right: double rgb(59, 108, 199) 0.2em; 
+    border-right: double rgb(59, 108, 199) 0.2em;
 }
+
 .context {
     padding: 1em;
     text-align: center;
@@ -35,47 +39,57 @@ body{
     background-color: bisque;
 }
 
-.logo{
-    font-size: 2em;
+.logo {
+    margin: 0;
+    padding: 0;
     font-style: oblique;
     color: black;
 }
+
 .carta {
     text-align: center;
-    align-items:center ;
+    align-items: center;
     justify-content: center;
 }
+
 .entrantes {
     text-align: start;
     padding-top: 2em;
     font-weight: bold;
     font-style: italic;
 }
+
 .plate {
     text-align: center;
     margin-top: 1em;
 }
+
 .price {
     margin-top: 1em;
     text-align: end;
     justify-content: end;
     align-items: flex-end;
 }
+
 .central {
     width: 0em;
 }
-p{
+
+p {
     text-align: start;
 }
+
 .fin {
     padding: 1em;
     text-align: center;
-    
+
 }
+
 .fin1 {
     text-align: center;
     padding-bottom: 1em;
 }
+
 .aviso {
     color: black;
     text-decoration: none;
@@ -89,6 +103,7 @@ p{
 .logo:hover {
     color: black;
 }
+
 .carta1 {
     padding-bottom: 2em;
     background-color: rgba(255, 255, 255, 0.658);
@@ -99,6 +114,7 @@ p{
     font-style: italic;
     font-size: 2em;
 }
+
 .texto {
     margin-top: 1em;
 }
@@ -106,22 +122,27 @@ p{
 .texto2 {
     text-align: end;
 }
+
 .map {
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .contact {
     margin-top: 4em;
 }
+
 .fondo {
     background-image: url(../img/779.jpg);
     background-size: cover;
 }
+
 .foto {
     margin: 0;
     padding: 0;
 }
+
 .textcook {
     color: rgb(38, 76, 156);
     font-weight: bold;
