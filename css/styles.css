@@ -14,7 +14,14 @@ body{
     font-size: 1.5em;
     margin-left: -10em;
 }
-
+.cookprincipal {
+    margin-top: 0;
+    padding: 0;
+    padding-top: 2em;
+    /* background-color: rgb(255, 255, 255); */
+    border-left: double rgb(59, 108, 199) 0.2em;
+    border-right: double rgb(59, 108, 199) 0.2em; 
+}
 .context {
     padding: 1em;
     text-align: center;
@@ -110,4 +117,12 @@ p{
 .fondo {
     background-image: url(../img/779.jpg);
     background-size: cover;
+}
+.foto {
+    margin: 0;
+    padding: 0;
+}
+.textcook {
+    color: rgb(38, 76, 156);
+    font-weight: bold;
 }
