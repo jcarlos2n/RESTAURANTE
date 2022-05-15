@@ -13,7 +13,6 @@ body {
     margin-top: 0;
     padding: 0;
     padding-top: 2em;
-    /* background-color: rgb(255, 255, 255); */
     border-left: double rgb(59, 108, 199) 0.2em;
     border-right: double rgb(59, 108, 199) 0.2em;
 }
@@ -27,15 +26,10 @@ body {
     font-size: 3em;
 }
 
-.pie {
-    background-color: bisque;
-}
-
 .logo {
     margin: 0;
     padding: 0;
-    font-style: oblique;
-    color: black;
+ 
 }
 
 .carta {
@@ -63,18 +57,14 @@ body {
     align-items: flex-end;
 }
 
-.central {
-    width: 0em;
-}
 
 p {
     text-align: start;
 }
 
 .fin {
-    padding: 1em;
     text-align: center;
-
+    padding-top: 1em;
 }
 
 .fin1 {
@@ -98,7 +88,7 @@ p {
 
 .carta1 {
     padding-bottom: 2em;
-    background-color: rgba(255, 255, 255, 0.842);
+    background-color: rgba(255, 255, 255, 0.76);
 }
 
 .carta2 {
@@ -150,8 +140,7 @@ p {
     text-align: end;
     justify-content: flex-end;
     align-items: flex-end;
-    font-size: 1.5em;
-    /* margin-left: -10em; */
+    font-size: 1.7em;
 }
 .primeintro2 {
     margin-top: 1em;
