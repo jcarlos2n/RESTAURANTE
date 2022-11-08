@@ -147,6 +147,10 @@ p {
     border-top: double rgb(91, 91, 187) 0.4em;
 }
 
+.d-block{
+    border-radius: 1em;
+}
+
 .piepagina {
     margin-top: 0.5em;
     border-top: double rgb(91, 91, 187) 0.4em;
