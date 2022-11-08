@@ -29,7 +29,7 @@ body {
 .logo {
     margin: 0;
     padding: 0;
- 
+    width: 6em;
 }
 
 .carta {
@@ -87,8 +87,11 @@ p {
 }
 
 .carta1 {
+    padding: 1em;
     padding-bottom: 2em;
     background-color: rgba(255, 255, 255, 0.76);
+    margin-top: 2em;
+    border-radius: 1em;
 }
 
 .carta2 {
@@ -168,4 +171,7 @@ p {
 
 .foto2 {
     margin-top: 1em;
+}
+.fenomeno{
+    margin-bottom: 1em;
 }

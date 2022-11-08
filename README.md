@@ -19,7 +19,6 @@ ___
 
 He creado la web, de un restaurante ficticio, basandome en varias webs de internet. El restaurante se llama Pecados del sur.
 Inspirado en restaurantes de diseño y alta cocina.
-
 <p align="center">
 <img src="img/readme1.png" width= 500><br>
 <sub> Vista Home</sub>
