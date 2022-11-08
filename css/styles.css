@@ -57,7 +57,6 @@ body {
     align-items: flex-end;
 }
 
-
 p {
     text-align: start;
 }
@@ -80,10 +79,6 @@ p {
 .aviso:hover {
     color: rgb(83, 45, 187);
     text-decoration: none;
-}
-
-.logo:hover {
-    color: black;
 }
 
 .carta1 {
@@ -145,25 +140,30 @@ p {
     align-items: flex-end;
     font-size: 1.7em;
 }
+
 .primeintro2 {
     margin-top: 1em;
     padding-top: 1em;
     border-top: double rgb(91, 91, 187) 0.4em;
 }
+
 .slide {
     -webkit-transition: 0.3s ease-in-out left;
     -moz-transition: 0.3s ease-in-out left;
     -o-transition: 0.3s ease-in-out left;
-    transition: 0.3s ease-in-out left;
+    transition: 1s ease-in-out left;
 }
+
 .piepagina {
     margin-top: 0.5em;
     border-top: double rgb(91, 91, 187) 0.4em;
     background-color: rgb(252, 252, 252);
 }
+
 .pie1 {
     border-top: double rgb(91, 91, 187) 0.4em;
 }
+
 .foto1 {
     border-top: double rgb(91, 91, 187) 0.4em;
     margin-top: 2em;
@@ -172,6 +172,7 @@ p {
 .foto2 {
     margin-top: 1em;
 }
+
 .fenomeno{
     margin-bottom: 1em;
 }
